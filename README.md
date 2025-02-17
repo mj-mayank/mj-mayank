@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a **Data Analyst** with a strong foundation in **SQL, 
 
 ## 📫 Connect with Me  
 
-🔗 **LinkedIn:** [linkedin.com/in/mayank-joshi-mj/](https://www.linkedin.com/in/mayank-joshi-mj/)(#)  
+🔗 **LinkedIn:** [linkedin.com/in/mayank-joshi-mj/](https://www.linkedin.com/in/mayank-joshi-mj/)  
 📧 **Email:** your.email@example.com  
 
 💡 *Let's collaborate on data-driven projects!*  
